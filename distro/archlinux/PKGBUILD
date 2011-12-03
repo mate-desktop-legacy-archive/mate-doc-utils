@@ -1,5 +1,5 @@
 pkgname=mate-doc-utils
-pkgver=2011.11.16
+pkgver=2011.12.01
 pkgrel=2
 pkgdesc="Documentation utilities for MATE"
 arch=('any')
