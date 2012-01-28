@@ -2,7 +2,7 @@
 
 # fill it
 pkgname=mate-doc-utils
-pkgver=1.1.0
+pkgver=1.2.0
 pkgrel=1
 pkgdesc="Documentation utilities for MATE"
 #depends="libxslt1.1, python, docbook-xml, rarian-compat, gnome-doc-utils"
