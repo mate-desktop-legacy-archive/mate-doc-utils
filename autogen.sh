@@ -12,7 +12,7 @@ PKG_NAME="mate-doc-utils"
     exit 1
 }
 
-which mate-autogen.sh || {
+which mate-autogen || {
     echo "You need to install mate-common from the MATE Git"
     exit 1
 }
