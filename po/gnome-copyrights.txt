@@ -1,0 +1,904 @@
+========== ar.po ==========
+# translation of mate-doc-utils.HEAD.po to Arabic
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) 2005 THE PACKAGE'S COPYRIGHT HOLDER, 2005.
+# Djihed Afifi <djihed@gmail.com>, 2006.
+# Khaled Hosny <khaledhosny@eglug.org>, 2006, 2008, 2009, 2010.
+# Anas Husseini <linux.anas@gmail.com>, 2007.
+
+
+
+
+========== as.po ==========
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Amitakhya Phukan <aphukan@fedoraproject.org>, 2009.
+
+
+
+
+========== ast.po ==========
+# Asturian translation for mate-doc-utils.
+# Copyright (C) 2010 mate-doc-utils's COPYRIGHT HOLDER
+# This file is distributed under the same license as the mate-doc-utils package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+
+
+
+
+========== be@latin.po ==========
+# Biełaruski pierakład mate-doc-utils.
+# Copyright (C) Ihar Hrachyshka 2008.
+# This file is distributed under the same license as the mate-doc-utils package.
+# Ihar Hrachyshka <booxter@lacinka.org>, 2008.
+#
+
+
+
+
+========== bg.po ==========
+# Bulgarian translation of mate-doc-utils po-file.
+# Copyright (C) 2004, 2006, 2007, 2009, 2010 Free Software Foundation, Inc
+# This file is distributed under the same license as the mate-doc-utils package.
+# Alexander Shopov <ash@kambanaria.org>, 2004, 2006, 2007, 2009, 2010.
+#
+
+
+
+
+========== bn.po ==========
+# Bangla Translation of the mate-doc-utils file
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+# Mahay Alam Khan <makl10n@yahoo.com>, 2005.
+# Samia Niamatullah <mailsamia2001@yahoo.com>, 2005.
+# Jamil Ahmed <itsjamil@gmail.com>, 2006.
+# Sadia Afroz <sadia@ankur.org.bd>, 2010.
+# Israt Jahan <israt@ankur.org.bd>, 2010.
+#
+
+
+
+
+========== bn_IN.po ==========
+# translation of bn_IN.po to Bengali INDIA
+# Bengali India Translation of the mate-doc-utils file
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+#
+# Mahay Alam Khan <makl10n@yahoo.com>, 2005.
+# Samia Niamatullah <mailsamia2001@yahoo.com>, 2005.
+# Runa Bhattacharjee <runabh@gmail.com>, 2007.
+# Runa Bhattacharjee <runab@redhat.com>, 2009.
+
+
+
+
+========== ca.po ==========
+# Traducció al català del paquet mate-doc-utils
+# Copyright © 2004, 2005, 2006 Free Software Foundation, Inc.
+# This file is distributed under the same license as the
+#   mate-doc-utils package.
+# Xavier Conde Rueda <xavi.conde@gmail.com>, 2004.
+# Gil Forcada <gilforcada@guifi.net>, 2005, 2006, 2007, 2008, 2009, 2010.
+#
+
+
+
+
+========== ca@valencia.po ==========
+# Traducció al català del paquet mate-doc-utils
+# Copyright © 2004, 2005, 2006 Free Software Foundation, Inc.
+# This file is distributed under the same license as the
+#   mate-doc-utils package.
+# Xavier Conde Rueda <xavi.conde@gmail.com>, 2004.
+# Gil Forcada <gilforcada@guifi.net>, 2005, 2006, 2007, 2008, 2009, 2010.
+#
+
+
+
+
+========== cs.po ==========
+# Czech translation for mate-doc-utils.
+# Copyright (C) 2004, 2005, 2006, 2008, 2009, 2010 the author(s) of mate-doc-utils.
+# Copyright (C) 2004, 2005, 2006 Miloslav Trmac <mitr@volny.cz>.
+# Copyright (C) 2006 Lukas Novotny <lukasnov@cvs.gnome.org>.
+# This file is distributed under the same license as the mate-doc-utils package.
+# Miloslav Trmac <mitr@volny.cz>, 2004, 2005, 2006.
+# Lukas Novotny <lukasnov@cvs.gnome.org>, 2006.
+# Lucas Lommer <llommer@svn.gnome.org>, 2008.
+# Petr Kovar <pknbe@volny.cz>, 2008, 2009, 2010.
+
+
+
+
+========== cy.po ==========
+# MATE-Doc-Utils in Welsh.
+# This file is distributed under the same license as the mate-doc-utils
+# package.
+# Rhys Jones <rhys@sucs.org>, 2006.
+#
+
+
+
+
+========== da.po ==========
+# Danish translation of Mate Documentation Utilities.
+# Copyright (C) 2005-2007 Shaun McCance
+# This file is distributed under the same license as the mate-doc-utils package.
+#
+#
+# Den dokumentation som de bliver ved med at henvise til findes d. 12/4 2007 her:
+# http://svn.gnome.org/viewcvs/mate-doc-utils/trunk/i18n/STYLESHEETS.xhtml?revision=593
+#
+# Bemærk ydeligere at jeg i alle de strenge der har at gøre med XML markup oversættelse
+# har fjernet msgid tagget og skiftet til ny linje mellem hvert msgstr tag. Begge
+# dele er lovlige i henhold til det skript der skal håndtere disse streng bagefter og
+# jeg synes det letter læsningen
+#
+# De specielle strenge der indeholder XML markup oversættelse bruges til at danne en
+# tekstformattering af DocBook som er sådan som vi ville have den på dansk. Det er derfor
+# med vilje og netop hele pointen at nogle af strengene varierer fra den engelske version.
+# Det skal fremtidige oversættere være opmærksom på specielt hvis i rette nogle fuzzy
+# strenge at i ikke bare laver dem om sådan så de ser ud som den engelske, for det er ikke
+# sikkert det er det der har gjort at den er blevet fuzzy.
+# Jeg har vedhæftet de strenge hvor den danske med vilje afviger fra den engelske med
+# kommentaren DANSK og givet en kort beskrivelse af hvad meningen er.
+#
+# Martin Willemoes Hansen <mwh@sysrq.dk>, 2005.
+# Kenneth Nielsen <k.nielsen81@gmail.com>, 2007.
+# Ask Hjorth Larsen <asklarsen@gmail.com>, 2007, 10.
+#
+
+
+
+
+========== de.po ==========
+# German translation of mate-doc-utils.
+# Copyright (C) 2004, 2005 Shaun McCance <shaunm@gnome.org>.
+# This file is distributed under the same license as the mate-doc-utils package.
+# Hendrik Brandt <heb@mate-de.org>, 2004-2005.
+# Frank Arnold <frank@scirocco-5v-turbo.de>, 2005.
+# Hendrik Richter <hendrikr@gnome.org>, 2006, 2007.
+# Mario Blättermann <mariobl@gnome.org>, 2009, 2010.
+#
+# Keep in sync with German part of docbook-stylesheets
+# http://docbook.sourceforge.net/projects/xsl/
+#
+
+
+
+
+========== dz.po ==========
+# Dzongkha translation of mate-doc-utils
+# Copyright @ 2006 Free Software Foundation, Inc.
+# Mindu Dorji
+#
+
+
+
+
+========== el.po ==========
+# translation of el.po to
+# translation of el.po to Greek
+# Greek translation of PACKAGE.
+# Copyright (C) 2004 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+#
+# cvs -z3 checkout, 2004.
+# Kostas <pkst@gmx.net>, 2004.
+# Kostas Papadimas <pkst@gnome.org>, 2004, 2006.
+# Nikos Charonitakis <charosn@her.forthnet.gr>, 2005.
+
+
+
+
+========== en@shaw.po ==========
+# Shavian translation for mate-doc-utils.
+# Copyright (C) 2009 The Mate Foundation.
+# Thomas Thurman <tthurman@gnome.org>, 2009.
+
+
+
+
+========== en_CA.po ==========
+# Canadian English translation for mate-doc-utils.
+# Copyright (C) 2004-2006 Adam Weinberger and the MATE Foudnation
+# This file is distributed under the same licence as the mate-doc-utils package.
+# Adam Weinberger <adamw@gnome.org>, 2004, 2006.
+#
+#
+
+
+
+
+========== en_GB.po ==========
+# English/GB translation of mate-doc-utils.
+# Copyright (C) 2004 The MATE Foundation
+# This file is distributed under the same license as the mate-doc-utilspackage.
+# David Lodge <dave@cirt.net>, 2004.
+# Philip Withnall <philip@tecnocode.co.uk>, 2009, 2010.
+# Bruce Cowan <bcowan@fastmail.co.uk>, 2010.
+
+
+
+
+========== es.po ==========
+# translation of mate-doc-utils.HEAD.po to Español
+# translation of mate-doc-utils to spanish
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Francisco Javier F. Serrador <serrador@cvs.gnome.org>, 2004, 2005, 2006.
+# Jorge González <jorgegonz@svn.gnome.org>, 2007, 2008, 2009, 2010.
+
+
+
+
+========== et.po ==========
+# Mate dokumentatsiooniutiliitide eesti tõlge.
+# Estonian translation for Mate doc-utils.
+#
+# Copyright (C) 2005, 2006 Free Software Foundation, Inc.
+# Copyright (C) 2007, 2009, 2010 The MATE Project
+# This file is distributed under the same license as the mate-doc-utils
+# package.
+#
+# Priit Laes <amd@store20.com>, 2005.
+# Ivar Smolin <okul@linux.ee>, 2005-2007, 2009, 2010.
+#
+
+
+
+
+========== eu.po ==========
+# translation of eu.po to Basque
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+#
+# Iñaki Larrañaga Murgoitio <dooteo@euskalgnu.org>, 2006, 2008, 2009, 2010.
+# Iñaki Larrañaga Murgoitio <dooteo@zundan.com>, 2007.
+
+
+
+
+========== fa.po ==========
+# Persian translation of mate-doc-utils.
+# Copyright (C) 2008 Amir Hedayaty
+# Copyright (C) 2008 Sharif FarsiWeb, Inc.
+# This file is distributed under the same license as the mate-doc-utils package.
+# Amir Hedayaty <hedayaty@gmail.com>, 2008.
+# Roozbeh Pournader <roozbeh@gmail.com>, 2008.
+#
+
+
+
+
+========== fi.po ==========
+# Finnish translations for mate-doc-utils package.
+# Copyright (C) 2004-2005 Free Software Foundation, Inc.
+# This file is distributed under the same license as the mate-doc-utils package.
+# Tommi Vainikainen <Tommi.Vainikainen@iki.fi>, 2004-2005, 2009-2010.
+# Ilkka tuohela <hile@iki.fi>, 2005.
+#
+
+
+
+
+========== fr.po ==========
+# French translation for mate-doc-utils.
+# Copyright (C) 2004-2010 the MATE Foudnation
+# This file is distributed under the same license as the mate-doc-utils package.
+#
+# Raphaël Tournoy <lexpas@free.fr>, 2004.
+# Christophe Merlet <redfox@redfoxcenter.org>, 2005.
+# Vincent Untz <vuntz@gnome.org>, 2005.
+# Jonathan Ernst <jonathan@ernstfamily.ch>, 2006.
+# Christophe Bliard <christophe.bliard@trux.info>, 2006.
+# Stéphane Raimbault <stephane.raimbault@gmail.com>, 2007.
+# Laurent Coudeur <laurentc@iol.ie>, 2009.
+#
+
+
+
+
+========== ga.po ==========
+# Irish translations for mate-doc-utils package.
+# Copyright (C) 2009 Free Software Foundation, Inc.
+# This file is distributed under the same license as the mate-doc-utils package.
+# Seán de Búrca <leftmostcat@gmail.com>, 2009.
+#
+
+
+
+
+========== gl.po ==========
+# translation of mate-doc-utils.master.po to Galician
+# This file is distributed under the same license as the mate-doc-utils package.
+# Copyright (C) 2010 Fran Diéguez.
+#
+# Ignacio Casal Quinteiro <nacho.resa@gmail.com>, 2005, 2006.
+# Ignacio Casal Quinteiro <icq@svn.gnome.org>, 2008.
+# Mancomún - Centro de Referencia e Servizos de Software Libre <g11n@mancomun.org>, 2009.
+# Antón Méixome <meixome@mancomun.org>, 2009.
+# Fran Diéguez <frandieguez@ubuntu.com>, 2010.
+#
+
+
+
+
+========== gu.po ==========
+# translation of mate-doc-utils.master.gu.po to Gujarati
+# Ankit Patel <ankit644@yahoo.com>, 2005, 2006.
+# Ankit Patel <ankit@redhat.com>, 2007.
+# Sweta Kothari <swkothar@redhat.com>, 2009.
+
+
+
+
+========== he.po ==========
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# Yair Hershkovitz, 2003
+#
+
+
+
+
+========== hi.po ==========
+# translation of mate-doc-utils.master.po to Hindi
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+#
+# Rajesh Ranjan <rranjan@redhat.com>, 2005, 2006.
+# Rajesh Ranjan <rajesh672@gmail.com>, 2009.
+
+
+
+
+========== hu.po ==========
+# Hungarian translation of mate-doc-utils.
+# Copyright (C) 2004, 2005, 2006, 2007, 2008, 2009, 2010 Free Software Foundation, Inc.
+# This file is distributed under the same license as the mate-doc-utils package.
+#
+# Gabor Kelemen <kelemeng at mate dot hu>, 2004, 2005, 2006, 2007, 2008, 2009, 2010.
+
+
+
+
+========== id.po ==========
+# translation of mate-doc-utils.master.id.po to MATE Indonesian Translation Team
+# Indonesian translation of mate-doc-utils.
+# Copyright (C) 2005 THE mate-doc-utils'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the mate-doc-utils package.
+#
+#
+# ahmad riza h nst <ari@160c.afraid.org>, 2005.
+# Dirgita <dirgitadevina@yahoo.co.id>, 2010.
+# Dirgita <dirgitadevina@gmail.com>, 2010.
+
+
+
+
+========== it.po ==========
+# Italian translation of mate-doc-utils.
+# Copyright (C) 2002-2009, 2010 Free Software Foundation, Inc.
+# Luca Ferretti <elle.uca@infinito.it>, 2004.
+#
+# Based on Yelp translation by Psyk[o] <shaihulud@supereva.it>, 2002.
+#
+# ATTENZIONE!!!! Questa traduzione non è facile, specie perché le cose da
+# tradurre non sono messaggi, ma variabili. Si consiglia di installare
+# mate-doc-utils, aprire Yelp e leggere il documento
+#
+#         Altra documentazione -> MATE Documentation XSLT Manual
+#
+# in particolare l'ultima sezione (Translating the Stylesheets) prima di
+# commentare sulla traduzione.
+#
+# Lo stesso documento contiene informazioni sulle traduzioni dei vari
+# pezzi tipo "format.quote.inner": cosa sono, cosa rappresentano e
+# che argomenti possono accettare.
+#
+# Milo Casagrande <milo@ubuntu.com>, 2009, 2010.
+
+
+
+
+========== ja.po ==========
+# ja.po for mate-doc-utils.
+# Copyright (C) 2004-2010 Shaun McCance <shaunm@gnome.org>
+# This file is distributed under the same license as the mate-doc-utils package.
+# Satoru SATOH <ss@mate.gr.jp>, 2004.
+# Takeshi AIHANA <takeshi.aihana@gmail.com>, 2005-2007,2009.
+# Takayuki KUSANO <AE5T-KSN@asahi-net.or.jp>, 2009.
+# Hideki Yamane (Debian-JP) <henrich@debian.or.jp>, 2010.
+#
+
+
+
+
+========== ka.po ==========
+# translation of mate-doc-utils.po to Georgian
+# translation of mate-doc-utils.HEAD.po to
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+# Valeri Chitaladze <chitaladze@gmail.com>
+
+
+
+
+
+========== kn.po ==========
+# translation of mate-doc-utils.master.kn.po to Kannada
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Shankar Prasad <svenkate@redhat.com>, 2008, 2009.
+
+
+
+
+========== ko.po ==========
+# This file is distributed under the same license as the mate-doc-utils package.
+#
+# Young-Ho Cha <ganadist@gmail.com>, 2005.
+# Changwoo Ryu <cwryu@debian.org>, 2005, 2006, 2008, 2009, 2010.
+#
+#
+
+
+
+
+========== lt.po ==========
+# Lithuanian translation of mate-doc-utils.
+# Copyright (C) 2004-2010 Free Software Foundation, Inc.
+# This file is distributed under the same license as the mate-doc-utils package.
+# Žygimantas Beručka <zygis@gnome.org>, 2004-2007, 2010.
+# Gintautas Miliauskas <gintas@akl.lt>, 2008.
+
+
+
+
+========== lv.po ==========
+# translation of lv.po to Latvian
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+#
+# Raivis Dejus <orvils@gmail.com>, 2006, 2009.
+# Rūdolfs Mazurs <rudolfs.mazurs@gmail.com>, 2010.
+
+
+
+
+========== mai.po ==========
+# translation of mate-doc-utils.master.po to Maithili
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+#
+# Sangeeta Kumari <sangeeta09@gmail.com>, 2009.
+
+
+
+
+========== mg.po ==========
+# MALAGASY TRANSLATION OF MATE-DOC-UTILS.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# Thierry Randrianiriana <thierry@isvtec.com>, 2006.
+
+
+
+
+========== mk.po ==========
+# translation of mate-doc-utils.HEAD.po to Macedonian
+# English translation of mate-doc-utils.
+# Copyright (C) 2005 THE mate-doc-utils'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the mate-doc-utils package.
+#
+# Арангел Ангов <ufo@linux.net.mk>, 2005.
+# Arangel Angov <ufo@linux.net.mk>, 2006, 2003.
+# Arangel Angov <arangel@linux.net.mk>, 2007.
+
+
+
+
+========== ml.po ==========
+# translation of ml.po to
+# translation of mate-doc-utils.master.ml.po to
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+# Ani Peter <apeter@redhat.com>, 2006.
+#
+
+
+
+
+========== mn.po ==========
+# translation of mate-юdoc-utils.HEAD.po to Mongolian
+# translation of mate-doc-utils.HEAD.po to Mongolian
+# translation of PACKAGE.
+# Copyright (C) 2006 THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# <>, 2006.
+# Munkhtugs <munkhtugs@newcomsystems.mn>, 2006.
+# Badral <badral@openmn.org>, 2006.
+#
+#
+
+
+
+
+========== mr.po ==========
+# translation of mr.po to Marathi
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+#
+# Rahul Bhalerao <b.rahul.pm@gmail.com>, 2006.
+# Sandeep Shedmake <sandeep.shedmake@gmail.com>, 2008.
+# Sandeep Shedmake <sshedmak@redhat.com>, 2009.
+
+
+
+
+========== nb.po ==========
+# Norwegian bokmål translation of mate-doc-utils.
+# Copyright (C) 2004, 2005 Shaun McChance
+# This file is distributed under the same license as the mate-doc-utils package.
+# Kjartan Maraas <kmaraas@gnome.org>, 2004-2009.
+#
+
+
+
+
+========== ne.po ==========
+# translation of mate-doc-utils.HEAD.ne.po to Nepali
+# Nepali Translation Project.
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+#
+# Pawan Chitrakar  <pawan@nplinux.org>, 2005.
+# Kapil Timilsina <lipak21@gmail.com>, 2005.
+# Jyotshna Shrestha <shresthajyo@hotmail.com>, 2005.
+# Narayan Kumar Magar <narayan@mpp.org.np>, 2007.
+
+
+
+
+========== nl.po ==========
+# Dutch translation of mate-doc-utils.
+# Copyright (C) 2004, 2005 Free Software Foundation, Inc.
+# This file is distributed under the same license as the mate-doc-utils package.
+# Taco Witte <tcwitte@cs.uu.nl>, 2004, 2005.
+# Tino Meinen <a.t.meinen@chello.nl>, 2006.
+# Wouter Bolsterlee <wbolster@gnome.org>, 2007, 2008, 2010.
+#
+
+
+
+
+========== nn.po ==========
+# Norwegian nynorsk translation of mate-doc-utils.
+# Copyright (C) 2004, 2005 Shaun McChance
+# This file is distributed under the same license as the mate-doc-utils package.
+#
+#
+# Kjartan Maraas <kmaraas@gnome.org>, 2004,2006.
+# Eskild Hustvedt <i18n@zerodogg.org>, 2007.
+# Torstein Adolf Winterseth <kvikende@yahoo.no>, 2010.
+
+
+
+
+========== oc.po ==========
+# Translation of oc.po to Occitan
+# Occitan translation for mate-doc-utils.
+# Copyright (C) 2004-2006 the MATE Foudnation
+# This file is distributed under the same license as the mate-doc-utils package.# 
+# Yannig Marchegay (Kokoyaya) <yannig@marchegay.org>, 2006-2008
+
+
+
+
+========== or.po ==========
+# translation of mate-doc-utils.master.or.po to Oriya
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+#
+# Subhransu Behera <arya_subhransu@yahoo.co.in>, 2006.
+# Manoj Kumar Giri <mgiri@redhat.com>, 2008, 2009.
+
+
+
+
+========== pa.po ==========
+# translation of mate-doc-utils.HEAD.po to Punjabi
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+#
+# Amanpreet Singh Alam <aalam@users.sf.net>, 2004, 2005, 2006.
+# A S Alam <aalam@users.sf.net>, 2007, 2009, 2010.
+
+
+
+
+========== pl.po ==========
+# -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+# Aviary.pl
+# Jeśli masz jakiekolwiek uwagi odnoszące się do tłumaczenia lub chcesz
+# pomóc w jego rozwijaniu i pielęgnowaniu, napisz do nas:
+# matepl@aviary.pl
+# -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+
+
+
+
+========== pt.po ==========
+# mate-doc-utils' Portuguese translation.
+# Copyright © 2004, 2005, 2006, 2007, 2009, 2010 mate-doc-utils 
+# This file is distributed under the same license as the mate-doc-utils package.
+# Duarte Loreto <happyguy_pt@hotmail.com>, 2004, 2005, 2006, 2007, 2009, 2010.
+#
+
+
+
+
+========== pt_BR.po ==========
+# Brazilian Portuguese translation of mate-doc-utils.
+# Copyright (C) 2004-2007, 2009 the mate-doc-utils authors.
+# This file is distributed under the same license as the mate-doc-utils package.
+# Raphael Higino <phhigino@gmail.com>, 2004, 2005.
+# Pedro de Medeiros <pedro.medeiros@gmail.com>, 2005.
+# Leonardo Ferreira Fontenelle <leonardof@gnome.org>, 2006, 2007, 2009.
+# Leandro A. F. Pereira <leandro@linuxmag.com.br>, 2007.
+# Luiz Armesto <luiz.armesto@gmail.com>, 2007.
+#
+# Essa tradução exige um bocado de esforço. Antes de começar a traduzir, leia
+# Os comentários, bem como os documentos referenciados pelos comentários.
+#
+# Procurei seguir as normas da ABNT para formatação de texto. Pense duas vezes
+# antes de consertar o que parece um deslize ;)
+#
+# Além disso, procurei usar os mesmos termos que a Wikipédia para os mesmos
+# conceitos (p. ex. "stub"). -- Leonardo Fontenelle, 2009
+#
+
+
+
+
+========== ro.po ==========
+# Romanian translation of mate-doc-utils.
+# Copyright (C) 2005 Free Software Foundation, Inc.
+# This file is distributed under the same license as the mate-doc-utils package.
+# Dan Damian <dand@mate.ro>, 2005-2006.
+# Adi Roiban https://launchpad.net/~adiroiban, 2009
+# Lucian Adrian Grijincu <lucian.grijincu@gmail.com>, 2010.
+
+
+
+
+========== ru.po ==========
+# translation of ru.po to Russian
+# translation for mate-doc-utils to Russian
+# Copyright (C) 2005 MATE Documentation project
+# This file is distributed under the same license as the mate-doc-utils package.
+#
+# Leonid Kanter <leon@asplinux.ru>, 2006, 2010.
+# Nickolay V. Shmyrev <nshmyrev@yandex.ru> 2005, 2009.
+# Alexander Saprykin <xelfium@gmail.com>, 2009.
+# Yuri Kozlov <yuray@komyakino.ru>, 2010.
+
+
+
+
+========== rw.po ==========
+# translation of mate-doc-utils to Kinyarwanda.
+# Copyright (C) 2005 Free Software Foundation, Inc.
+# This file is distributed under the same license as the mate-doc-utils package.
+# Steve Murphy <murf@e-tools.com>, 2005
+# Steve performed initial rough translation from compendium built from translations provided by the following translators:
+# Philibert Ndandali  <ndandali@yahoo.fr>, 2005.
+# Viateur MUGENZI <muvia1@yahoo.fr>, 2005.
+# Noëlla Mupole <s24211045@tuks.co.za>, 2005.
+# Carole Karema <karemacarole@hotmail.com>, 2005.
+# JEAN BAPTISTE NGENDAHAYO <ngenda_denis@yahoo.co.uk>, 2005.
+# Augustin KIBERWA  <akiberwa@yahoo.co.uk>, 2005.
+# Donatien NSENGIYUMVA <ndonatienuk@yahoo.co.uk>, 2005..
+#
+
+
+
+
+========== sk.po ==========
+# Slovak translations for mate-doc-utils package.
+# Copyright (C) 2004, 2005 Free Software Foundation, Inc.
+# This file is distributed under the same license as the mate-doc-utils package.
+# Marcel Telka <marcel@telka.sk>, 2004, 2005.
+#
+# $Id$
+#
+
+
+
+
+========== sl.po ==========
+# Slovenian translation for mate-doc-utils.
+# Copyright (C) 2005-2007 Free Software Foundation, Inc.
+# This file is distributed under the same license as the mate-doc-utils package.
+#
+# Matjaž Horvat <m@owca.info>, 2006.
+# Matej Urbančič <mateju@svn.gnome.org>, 2007 - 2010.
+#
+
+
+
+
+========== sq.po ==========
+# Përkthimi i mesazheve të mate-doc-utils në shqip
+# Copyright (C) 2006, 2007, 2008 Free Software Foundation, Inc.
+# This file is distributed under the same license as the  mate-doc-utils package.
+#
+# Laurent Dhima <laurenti@alblinux.net>, 2004, 2005, 2006, 2007, 2008.
+
+
+
+
+========== sr.po ==========
+# Serbian translation of mate-doc-utils
+# Courtesy of Prevod.org team (http://prevod.org/) -- 2004 - 2009.
+#
+# This file is distributed under the same license as the mate-doc-utils package.
+#
+# Maintainer: Данило Шеган <danilo@gnome.org>
+# Reviewed on 2005-09-06 by: Данило Шеган <danilo@gnome.org>
+#
+
+
+
+
+========== sr@latin.po ==========
+# Serbian translation of mate-doc-utils
+# Courtesy of Prevod.org team (http://prevod.org/) -- 2004 - 2009.
+#
+# This file is distributed under the same license as the mate-doc-utils package.
+#
+# Maintainer: Danilo Šegan <danilo@gnome.org>
+# Reviewed on 2005-09-06 by: Danilo Šegan <danilo@gnome.org>
+#
+
+
+
+
+========== sv.po ==========
+# Swedish translation for mate-doc-utils.
+# Copyright (C) 2004-2009 Free Software Foundation, Inc.
+# This file is distributed under the same license as the mate-doc-utils package.
+# Christian Rose <menthos@menthos.com>, 2004, 2005.
+# Daniel Nylander <po@danielnylander.se>, 2006, 2007, 2009, 2010.
+#
+# $Id: sv.po,v 1.7 2006/04/16 09:37:06 dnylande Exp $
+#
+
+
+
+
+========== ta.po ==========
+# translation of mate-doc-utils.HEAD.po to TAMIL
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER.
+#
+# Felix <ifelix@redhat.com>, 2006.
+# Dr.T.Vasudevan <agnihot3@gmail.com>, 2007, 2009.
+# Dr,T,Vasudevan <agnihot3@gmail.com>, 2010.
+
+
+
+
+========== te.po ==========
+# translation of mate-doc-utils.master.te.po to Telugu
+# Telugu translation of mate-doc-utils
+# Copyright (C) Krishna Babu K <kkrothap@redhat.com>, 2008.
+# This file is distributed under the same license as the mate-doc-utils package.
+#
+# Krishna Babu K <kkrothap@redhat.com>, 2008, 2009.
+
+
+
+
+========== th.po ==========
+# Thai translation of mate-doc-utils.
+# Copyright (C) 2005-2010 Free Software Foundation, Inc.
+# This file is distributed under the same license as the mate-doc-utils package.
+# Theppitak Karoonboonyanan <thep@linux.thai.net>, 2005-2010.
+#
+
+
+
+
+========== tr.po ==========
+# translation of mate-doc-utils to Turkish
+# This file is distributed under the same license as the mate-doc-utils package.
+# Copyright (C) 2005
+#
+#
+# Emre Kadıoğlu <emrek@gawab.com>, 2005.
+# Baris Cicek <baris@teamforce.name.tr>, 2008, 2009.
+
+
+
+
+========== ug.po ==========
+# Translation of mate-doc-utils to Uyghur
+# Copyright (C) 2004,2005 THE mate-menus' COPYRIGHT HOLDER
+# This file is distributed under the same license as the mate-doc-utils package.
+# Gheyret T.Kenji <gheyret@yahoo.com>, 2005.
+#
+
+
+
+
+========== uk.po ==========
+# Ukrainian translation of mate-doc-utils.
+# Copyright (C) Free Software Foundation Inc., 2004
+# This file is distributed under the same license as the mate-doc-utils package.
+# Maxim Dziumanenko <dziumanenko@gmail.com>, 2004-2010
+#
+
+
+
+
+========== vi.po ==========
+# Vietnamese translation for Mate Doc Utils.
+# Copyright © 2010 Free Software Foundation, Inc.
+# This file is distributed under the same license as the mate-doc-utils package.
+# Phan Vĩnh Thịnh <teppi@vnlinux.org>, 2005.
+# Clytie Siddall <clytie@riverland.net.au>, 2005-2010.
+#
+
+
+
+
+========== wa.po ==========
+# translation of wa.po to Walloon
+# This file is distributed under the same license as the PACKAGE package.
+# Copyright (C) 2004 Free Software Foundation, Inc.
+# Pablo Saratxaga <pablo@walon.org>, 2004.
+#
+
+
+
+
+========== zh_CN.po ==========
+# Chinese (simplified) translation of mate-doc-utils
+# Copyright (C) 2010 Free Software Foundation, Inc.
+# This file is distributed under the same license as the mate-doc-utils package.
+# Funda Wang <fundawang@linux.net.cn>, 2004.
+# lainme <lainme993@gmail.com>, 2010.
+# Aron Xu <aronxu@gnome.org>, 2010.
+#
+
+
+
+
+========== zh_HK.po ==========
+# Chinese (Hong Kong) translation of mate-doc-utils
+# Copyright (C) 2005-06 Free Software Foundation, Inc.
+# Woodman Tuen <wmtuen@gmail.com>, 2005-2006.
+#
+#
+
+
+
+
+========== zh_TW.po ==========
+# Chinese (Taiwan) translation of mate-doc-utils
+# Copyright (C) 2005-06 Free Software Foundation, Inc.
+# Woodman Tuen <wmtuen@gmail.com>, 2005-2006.
+#
+#
+
+
+
+
