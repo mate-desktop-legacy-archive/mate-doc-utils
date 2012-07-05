@@ -1,3 +1,146 @@
+commit 818ac8261b2b90673bbe1a6685bb49cba2800f7f
+Author: Stefano Karapetsas <stefano@karapetsas.com>
+Date:   Mon Jun 25 10:39:41 2012 +0200
+
+    sync translations with transifex
+
+ po/ar.po          | 1018 ++++++--------
+ po/as.po          | 1156 +++++++---------
+ po/ast.po         |  965 +++++++------
+ po/bg.po          |  941 ++++++-------
+ po/bn.po          | 1070 ++++++---------
+ po/bn_IN.po       | 1107 +++++++--------
+ po/ca.po          | 1023 ++++++--------
+ po/ca@valencia.po | 1023 ++++++--------
+ po/cs.po          | 1001 ++++++--------
+ po/cy.po          | 1387 +++++++++++--------
+ po/da.po          | 1013 ++++++--------
+ po/de.po          | 1028 ++++++--------
+ po/dz.po          | 1120 ++++++++-------
+ po/el.po          |  966 +++++++------
+ po/en_CA.po       | 1105 +++++++--------
+ po/en_GB.po       | 1120 ++++++---------
+ po/es.po          | 1025 ++++++--------
+ po/et.po          | 1128 ++++++++--------
+ po/eu.po          | 1029 +++++++-------
+ po/fa.po          | 1104 +++++++--------
+ po/fi.po          | 1146 ++++++----------
+ po/fr.po          |  994 ++++++--------
+ po/ga.po          | 1091 +++++++--------
+ po/gl.po          | 1036 ++++++--------
+ po/gu.po          | 1069 +++++++--------
+ po/he.po          | 1012 ++++++--------
+ po/hi.po          | 1075 +++++++--------
+ po/hu.po          | 1019 ++++++--------
+ po/id.po          | 1023 ++++++--------
+ po/it.po          | 1005 ++++++--------
+ po/ja.po          | 1013 ++++++--------
+ po/ka.po          | 1333 +++++++++++-------
+ po/kn.po          | 1068 +++++++--------
+ po/ko.po          | 1013 ++++++--------
+ po/lt.po          | 1040 ++++++--------
+ po/lv.po          | 1023 ++++++--------
+ po/mai.po         | 1055 +++++++--------
+ po/mg.po          | 1320 +++++++++++-------
+ po/mk.po          | 1107 ++++++++-------
+ po/ml.po          | 1072 +++++++--------
+ po/mn.po          | 1386 +++++++++++--------
+ po/mr.po          | 1059 +++++++--------
+ po/nb.po          | 1019 ++++++--------
+ po/ne.po          | 1113 ++++++++-------
+ po/nl.po          | 1153 ++++++----------
+ po/nn.po          | 1026 ++++++--------
+ po/oc.po          | 1010 +++++++-------
+ po/or.po          | 1072 +++++++--------
+ po/pa.po          | 1013 ++++++--------
+ po/pl.po          | 1032 ++++++--------
+ po/pt.po          | 1274 +++++++-----------
+ po/pt_BR.po       | 1270 ++++++-----------
+ po/ro.po          | 1008 ++++++--------
+ po/ru.po          | 1054 +++++++--------
+ po/rw.po          | 1548 ++++++++++++---------
+ po/sk.po          | 1346 ++++++++++++-------
+ po/sl.po          |  968 +++++++------
+ po/sq.po          | 1111 ++++++++-------
+ po/sr.po          | 1161 ++++++----------
+ po/sr@latin.po    | 1161 ++++++----------
+ po/sv.po          | 1086 +++++++--------
+ po/ta.po          | 1041 +++++++-------
+ po/te.po          | 1061 +++++++--------
+ po/th.po          | 1216 ++++++++---------
+ po/tr.po          | 1053 +++++++--------
+ po/ug.po          | 3887 +++++++++++++++++++++++++++++------------------------
+ po/uk.po          | 1038 ++++++--------
+ po/vi.po          |  965 +++++++------
+ po/wa.po          | 1524 ++++++++++++---------
+ po/zh_CN.po       |  998 ++++++--------
+ po/zh_HK.po       |  921 ++++++-------
+ po/zh_TW.po       |  999 ++++++--------
+ 72 files changed, 37663 insertions(+), 43753 deletions(-)
+
+commit 9a7b3f238863ffd2e57a169611fc3f222025269b
+Author: Stefano Karapetsas <stefano@karapetsas.com>
+Date:   Mon Jun 25 10:39:18 2012 +0200
+
+    add gnome copyrights backup
+
+ po/gnome-copyrights.txt |  904 +++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 904 insertions(+)
+
+commit f1f4b9fb49029bdf8accc2876577ff58cd16b36a
+Author: Perberos <perberos@gmail.com>
+Date:   Thu Mar 8 01:31:37 2012 -0300
+
+    "possibly undefined macro: AM_NLS" happens when nls.m4 do not exists on some rpm based distros
+
+ m4/nls.m4 |   32 ++++++++++++++++++++++++++++++++
+ 1 file changed, 32 insertions(+)
+
+commit 44a0115b271149eba944361358e934b48a2661f1
+Author: Stefano Karapetsas <stefano@karapetsas.com>
+Date:   Wed Feb 22 16:20:23 2012 +0100
+
+    update to 1.2.1
+
+ configure.in |    2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit d2ec093e9abb4711c5bd04c5861c4f9869bb2af8
+Merge: 79b1f76 fa9725b
+Author: Stefano Karapetsas <stefano@karapetsas.com>
+Date:   Fri Feb 17 05:41:32 2012 -0800
+
+    Merge pull request #1 from samtygier/master
+    
+    reenable executable flag on autogen.sh. disabled in 79b1f76037234e49bb3004c0616480de1e0326d6
+
+commit fa9725b395ff2a942619de15601df509dd4c1205
+Author: Sam Tygier <samtygier@yahoo.co.uk>
+Date:   Fri Feb 17 13:10:48 2012 +0000
+
+    reenable executable flag on autogen.sh. disabled in 79b1f76037234e49bb3004c0616480de1e0326d6
+
+ 0 files changed
+
+commit 79b1f76037234e49bb3004c0616480de1e0326d6
+Author: Stefano Karapetsas <stefano@karapetsas.com>
+Date:   Sun Feb 12 17:42:18 2012 +0100
+
+    fix mate-autogen rename
+
+ autogen.sh |    2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 54dd2291db482faaf1e00476411c3230336275ad
+Author: Stefano Karapetsas <stefano@karapetsas.com>
+Date:   Thu Feb 9 23:43:03 2012 +0100
+
+    add changelog
+
+ ChangeLog |  442 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ README    |    9 +-
+ 2 files changed, 445 insertions(+), 6 deletions(-)
+
 commit 2a718f1a77f4d804b13d8d86817cb6b81d5eb6b1
 Author: Stefano Karapetsas <stefano@karapetsas.com>
 Date:   Thu Feb 9 15:31:10 2012 +0100
@@ -5,7 +148,7 @@ Date:   Thu Feb 9 15:31:10 2012 +0100
     remove distro/ubuntu folder. use debian-packages repo instead
 
  distro/ubuntu/build |   35 -----------------------------------
- 1 files changed, 0 insertions(+), 35 deletions(-)
+ 1 file changed, 35 deletions(-)
 
 commit d80c85d518f57c53d34fbaee7b634f2e8328bc3f
 Merge: f109485 a913740
@@ -20,7 +163,7 @@ Date:   Thu Feb 9 13:35:22 2012 +0100
 
     make script executable
 
- 0 files changed, 0 insertions(+), 0 deletions(-)
+ 0 files changed
 
 commit a913740d50f7d832a63d06ba53b034b2ccc9f1ab
 Author: Stefano Karapetsas <stefano@karapetsas.com>
@@ -29,7 +172,7 @@ Date:   Thu Feb 9 00:29:40 2012 +0100
     rename mate-autogen.sh to mate-autogen
 
  autogen.sh |    2 +-
- 1 files changed, 1 insertions(+), 1 deletions(-)
+ 1 file changed, 1 insertion(+), 1 deletion(-)
 
 commit ad5e6a197cd71b3907b261ab61e256bc71f2d155
 Author: Stefano Karapetsas <stefano@karapetsas.com>
@@ -60,7 +203,7 @@ Date:   Sat Jan 28 01:23:30 2012 +0100
 
  INSTALL |  237 ----------------------------------------
  missing |  376 ---------------------------------------------------------------
- 2 files changed, 0 insertions(+), 613 deletions(-)
+ 2 files changed, 613 deletions(-)
 
 commit cf0382b099df002cb395a7bdd70d886376cc873c
 Author: Perberos <perberos@gmail.com>
@@ -69,7 +212,7 @@ Date:   Tue Jan 24 13:16:14 2012 -0300
     changing pkgbuild source method
 
  distro/archlinux/PKGBUILD |   10 +++++-----
- 1 files changed, 5 insertions(+), 5 deletions(-)
+ 1 file changed, 5 insertions(+), 5 deletions(-)
 
 commit 7cc21b2bd3aa614bd16ddcc961e09482ac362d22
 Author: Perberos <perberos@gmail.com>
@@ -117,7 +260,7 @@ Date:   Tue Jan 24 13:15:59 2012 -0300
  xslt/mallard/cache/Makefile.in                 |  418 --
  xslt/mallard/common/Makefile.in                |  418 --
  xslt/mallard/html/Makefile.in                  |  428 --
- 40 files changed, 0 insertions(+), 30232 deletions(-)
+ 40 files changed, 30232 deletions(-)
 
 commit e3a753d0ca3c49866d000a7cd1ec7b79209855c0
 Author: Stefano Karapetsas <stefano@karapetsas.com>
@@ -440,4 +583,4 @@ Date:   Thu Dec 1 22:23:01 2011 -0300
  xslt/mallard/html/mal2html-table.xsl               |  513 ++
  xslt/mallard/html/mal2html.xsl                     |   73 +
  xslt/mallard/html/mal2xhtml.xsl                    |   72 +
- 292 files changed, 240556 insertions(+), 0 deletions(-)
+ 292 files changed, 240556 insertions(+)
