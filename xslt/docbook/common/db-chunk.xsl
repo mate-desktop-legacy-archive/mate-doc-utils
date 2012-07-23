@@ -12,8 +12,8 @@ details.
 
 You should have received a copy of the GNU Lesser General Public License
 along with this program; see the file COPYING.LGPL.  If not, write to the
-Free Software Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA
-02111-1307, USA.
+Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA
+02110-1301  USA.
 -->
 
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
@@ -285,30 +285,30 @@ REMARK: Explain how this works
   <xsl:param name="node" select="."/>
   <xsl:variable name="divs"
                 select="
-                        count($node/ancestor-or-self::appendix     ) + 
-                        count($node/ancestor-or-self::article      ) + 
-                        count($node/ancestor-or-self::bibliography ) + 
+                        count($node/ancestor-or-self::appendix     ) +
+                        count($node/ancestor-or-self::article      ) +
+                        count($node/ancestor-or-self::bibliography ) +
                         count($node/ancestor-or-self::bibliodiv    ) +
-                        count($node/ancestor-or-self::book         ) + 
-                        count($node/ancestor-or-self::chapter      ) + 
-                        count($node/ancestor-or-self::colophon     ) + 
-                        count($node/ancestor-or-self::dedication   ) + 
-                        count($node/ancestor-or-self::glossary     ) + 
-                        count($node/ancestor-or-self::glossdiv     ) + 
-                        count($node/ancestor-or-self::index        ) + 
-                        count($node/ancestor-or-self::lot          ) + 
-                        count($node/ancestor-or-self::part         ) + 
-                        count($node/ancestor-or-self::preface      ) + 
-                        count($node/ancestor-or-self::refentry     ) + 
-                        count($node/ancestor-or-self::reference    ) + 
-                        count($node/ancestor-or-self::sect1        ) + 
-                        count($node/ancestor-or-self::sect2        ) + 
-                        count($node/ancestor-or-self::sect3        ) + 
-                        count($node/ancestor-or-self::sect4        ) + 
-                        count($node/ancestor-or-self::sect5        ) + 
-                        count($node/ancestor-or-self::section      ) + 
-                        count($node/ancestor-or-self::setindex     ) + 
-                        count($node/ancestor-or-self::simplesect   ) + 
+                        count($node/ancestor-or-self::book         ) +
+                        count($node/ancestor-or-self::chapter      ) +
+                        count($node/ancestor-or-self::colophon     ) +
+                        count($node/ancestor-or-self::dedication   ) +
+                        count($node/ancestor-or-self::glossary     ) +
+                        count($node/ancestor-or-self::glossdiv     ) +
+                        count($node/ancestor-or-self::index        ) +
+                        count($node/ancestor-or-self::lot          ) +
+                        count($node/ancestor-or-self::part         ) +
+                        count($node/ancestor-or-self::preface      ) +
+                        count($node/ancestor-or-self::refentry     ) +
+                        count($node/ancestor-or-self::reference    ) +
+                        count($node/ancestor-or-self::sect1        ) +
+                        count($node/ancestor-or-self::sect2        ) +
+                        count($node/ancestor-or-self::sect3        ) +
+                        count($node/ancestor-or-self::sect4        ) +
+                        count($node/ancestor-or-self::sect5        ) +
+                        count($node/ancestor-or-self::section      ) +
+                        count($node/ancestor-or-self::setindex     ) +
+                        count($node/ancestor-or-self::simplesect   ) +
                         count($node/ancestor-or-self::toc          )"/>
   <xsl:choose>
     <xsl:when test="$divs &lt; ($db.chunk.max_depth + 1)">

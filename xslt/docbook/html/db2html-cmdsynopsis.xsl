@@ -12,8 +12,8 @@ details.
 
 You should have received a copy of the GNU Lesser General Public License
 along with this program; see the file COPYING.LGPL.  If not, write to the
-Free Software Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA
-02111-1307, USA.
+Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA
+02110-1301  USA.
 -->
 
 
@@ -367,7 +367,7 @@ selectors, which are generally expensive to perform.
       <xsl:variable name="cmd" select="$child/preceding-sibling::command[1]"/>
       <xsl:value-of select="str:padding(string-length($cmd), ' ')"/>
       <xsl:value-of select="str:padding(string-length($sepchar), ' ')"/>
-      <!-- Process all children that are between $cmd and $child, but 
+      <!-- Process all children that are between $cmd and $child, but
            after any sbr elements between $cmd and $child -->
       <xsl:for-each select="$cmd/following-sibling::*
                               [set:has-same-node(following-sibling::*, $child)]
@@ -495,7 +495,7 @@ selectors, which are generally expensive to perform.
   <xsl:value-of select="str:padding(string-length($label), ' ')"/>
   <xsl:value-of select="str:padding(string-length($sepchar), ' ')"/>
   <xsl:variable name="child" select="*[set:has-same-node(.|.//sbr, $sbr)][1]"/>
-  <!-- Process all children that are before $child, but 
+  <!-- Process all children that are before $child, but
        after any sbr elements before $child -->
   <xsl:for-each select="$child/preceding-sibling::*
                           [not(set:has-same-node(. | following-sibling::sbr,

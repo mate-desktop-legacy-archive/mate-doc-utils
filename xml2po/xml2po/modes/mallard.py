@@ -16,7 +16,7 @@
 #
 # You should have received a copy of the GNU General Public License
 # along with xml2po; if not, write to the Free Software Foundation, Inc.,
-# 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
+# 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 #
 
 # This implements special instructions for handling DocBook XML documents
@@ -113,7 +113,7 @@ class mallardXmlMode(basicXmlMode):
                 else:
                     hash = "THIS FILE DOESN'T EXIST"
                     print >>sys.stderr, "Warning: image file '%s' not found." % fullpath
-                    
+
                 msg.outputMessage("@@image: '%s'; md5=%s" % (attr, hash), node.lineNo(),
                                   "When image changes, this message will be marked fuzzy or untranslated for you.\n"+
                                   "It doesn't matter what you translate it to: it's not used at all.")
