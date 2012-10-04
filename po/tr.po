@@ -11,14 +11,14 @@ msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
 "POT-Creation-Date: 2012-02-09 23:10+0100\n"
-"PO-Revision-Date: 2012-03-17 20:10+0000\n"
+"PO-Revision-Date: 2012-09-14 20:32+0000\n"
 "Last-Translator: mauron <mauron@vmail.me>\n"
-"Language-Team: Turkish (http://www.transifex.net/projects/p/MATE/language/tr/)\n"
+"Language-Team: Turkish (http://www.transifex.com/projects/p/MATE/language/tr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: tr\n"
-"Plural-Forms: nplurals=1; plural=0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #. This is used as a list item seperator for inline lists of exactly two
 #. elements.  A list of two names would be formatted as "Tom and Dick".
@@ -1878,7 +1878,7 @@ msgstr "Birleştirilmiş"
 #. Used as a title for a bibliography.
 #: ../xslt/gettext/l10n.xml.in.h:1659
 msgid "Bibliography"
-msgstr "Biblografya"
+msgstr "Bibliyografya"
 
 #. http://www.docbook.org/tdg/en/html/caution.html
 #. This is used as a default title for caution elements.
@@ -2055,7 +2055,7 @@ msgstr "Bakınız"
 #. Automatic see also section and links
 #: ../xslt/gettext/l10n.xml.in.h:1782
 msgid "See Also"
-msgstr "Ayrıyetten Bakınız"
+msgstr "Ayrıyeten Bakınız"
 
 #. This is used as a description for the status of the document.
 #. This will not be visibile to the users.
