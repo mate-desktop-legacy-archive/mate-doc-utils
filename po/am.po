@@ -3,30 +3,27 @@
 # This file is distributed under the same license as the PACKAGE package.
 # 
 # Translators:
-# Alexander Saprykin <xelfium@gmail.com>, 2009.
-# Leonid Kanter <leon@asplinux.ru>, 2006, 2010.
-# Nickolay V. Shmyrev <nshmyrev@yandex.ru> 2005, 2009.
-# Yuri Kozlov <yuray@komyakino.ru>, 2010.
+# samson <sambelet@yahoo.com>, 2013.
 msgid ""
 msgstr ""
 "Project-Id-Version: MATE Desktop Environment\n"
 "Report-Msgid-Bugs-To: https://github.com/mate-desktop/\n"
 "POT-Creation-Date: 2012-02-09 23:10+0100\n"
-"PO-Revision-Date: 2013-03-11 19:48+0000\n"
-"Last-Translator: Alexei Sorokin <sor.alexei@hotbox.ru>\n"
-"Language-Team: Russian (http://www.transifex.com/projects/p/MATE/language/ru/)\n"
+"PO-Revision-Date: 2013-03-08 17:55+0000\n"
+"Last-Translator: samson <sambelet@yahoo.com>\n"
+"Language-Team: Amharic (http://www.transifex.com/projects/p/MATE/language/am/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: ru\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language: am\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
 
 #. This is used as a list item seperator for inline lists of exactly two
 #. elements.  A list of two names would be formatted as "Tom and Dick".
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:5
 msgid " and "
-msgstr " и "
+msgstr "እና "
 
 #. This is used to offset an inline description from a title.  This is
 #. typically used on title and refpurpose of a refentry element, which
@@ -52,7 +49,7 @@ msgstr ", "
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:25
 msgid ", and "
-msgstr ", и "
+msgstr ", እና "
 
 #. The number formatter used for appendix numbers.  This can be one of
 #. "1", "A", "a", "I", or "i", without the quotes.  These formatters
@@ -69,7 +66,7 @@ msgstr ", и "
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:40
 msgid "<msgid>appendix.digit</msgid> <msgstr>A</msgstr>"
-msgstr "<msgid>appendix.digit</msgid> <msgstr>I</msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -108,7 +105,7 @@ msgid ""
 "<msgid>appendix.label</msgid> <msgstr "
 "role='header'><number/>.&#x2003;</msgstr> <msgstr "
 "role='li'><number/>.&#x2002;</msgstr> <msgstr>Appendix <number/></msgstr>"
-msgstr "<msgid>appendix.label</msgid> <msgstr role='header'><number/>&#x2003;</msgstr> <msgstr role='li'><number/>&#x2002;</msgstr> <msgstr>Дополнение <number/></msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -143,7 +140,7 @@ msgstr "<msgid>appendix.label</msgid> <msgstr role='header'><number/>&#x2003;</m
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:107
 msgid "<msgid>appendix.number</msgid> <msgstr><parent/>.<digit/></msgstr>"
-msgstr "<msgid>appendix.number</msgid> <msgstr><parent/>.<digit/></msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -178,7 +175,7 @@ msgstr "<msgid>appendix.number</msgid> <msgstr><parent/>.<digit/></msgstr>"
 #: ../xslt/gettext/l10n.xml.in.h:139
 msgid ""
 "<msgid>appendix.xref</msgid> <msgstr>Appendix <number/> ― <title/></msgstr>"
-msgstr "<msgid>appendix.xref</msgid> <msgstr>Дополнение <number/> ― <title/></msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -206,7 +203,7 @@ msgstr "<msgid>appendix.xref</msgid> <msgstr>Дополнение <number/> ― 
 msgid ""
 "<msgid>biblioentry.tooltip</msgid> <msgstr>View the bibliography entry "
 "<label/>.</msgstr>"
-msgstr "<msgid>biblioentry.tooltip</msgid> <msgstr>Смотрите дополнительный документ <label/>.</msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -242,7 +239,7 @@ msgstr "<msgid>biblioentry.tooltip</msgid> <msgstr>Смотрите дополн
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:197
 msgid "<msgid>bibliography.xref</msgid> <msgstr><title/></msgstr>"
-msgstr "<msgid>bibliography.xref</msgid> <msgstr><title/></msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -282,7 +279,7 @@ msgstr "<msgid>bibliography.xref</msgid> <msgstr><title/></msgstr>"
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:235
 msgid "<msgid>bibliolabel.format</msgid> <msgstr>[<bibliolabel/>]</msgstr>"
-msgstr "<msgid>bibliolabel.format</msgid> <msgstr>[<bibliolabel/>]</msgstr>"
+msgstr ""
 
 #. The number formatter used for book numbers.  This can be one of
 #. "1", "A", "a", "I", or "i", without the quotes.  These formatters
@@ -299,7 +296,7 @@ msgstr "<msgid>bibliolabel.format</msgid> <msgstr>[<bibliolabel/>]</msgstr>"
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:250
 msgid "<msgid>book.digit</msgid> <msgstr>1</msgstr>"
-msgstr "<msgid>book.digit</msgid> <msgstr>1</msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -331,7 +328,7 @@ msgstr "<msgid>book.digit</msgid> <msgstr>1</msgstr>"
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:280
 msgid "<msgid>book.xref</msgid> <msgstr><title/></msgstr>"
-msgstr "<msgid>book.xref</msgid> <msgstr><title/></msgstr>"
+msgstr ""
 
 #. The number formatter used for chapter numbers.  This can be one of
 #. "1", "A", "a", "I", or "i", without the quotes.  These formatters
@@ -348,7 +345,7 @@ msgstr "<msgid>book.xref</msgid> <msgstr><title/></msgstr>"
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:295
 msgid "<msgid>chapter.digit</msgid> <msgstr>1</msgstr>"
-msgstr "<msgid>chapter.digit</msgid> <msgstr>1</msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -387,7 +384,7 @@ msgid ""
 "<msgid>chapter.label</msgid> <msgstr "
 "role='header'><number/>.&#x2003;</msgstr> <msgstr "
 "role='li'><number/>.&#x2002;</msgstr> <msgstr>Chapter <number/></msgstr>"
-msgstr "<msgid>chapter.label</msgid> <msgstr role='header'><number/>.&#x2003;</msgstr> <msgstr role='li'><number/>.&#x2002;</msgstr> <msgstr>Глава <number/></msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -422,7 +419,7 @@ msgstr "<msgid>chapter.label</msgid> <msgstr role='header'><number/>.&#x2003;</m
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:362
 msgid "<msgid>chapter.number</msgid> <msgstr><parent/>.<digit/></msgstr>"
-msgstr "<msgid>chapter.number</msgid> <msgstr><parent/>.<digit/></msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -457,7 +454,7 @@ msgstr "<msgid>chapter.number</msgid> <msgstr><parent/>.<digit/></msgstr>"
 #: ../xslt/gettext/l10n.xml.in.h:394
 msgid ""
 "<msgid>chapter.xref</msgid> <msgstr>Chapter <number/> ― <title/></msgstr>"
-msgstr "<msgid>chapter.xref</msgid> <msgstr>Глава <number/> ― <title/></msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -489,7 +486,7 @@ msgstr "<msgid>chapter.xref</msgid> <msgstr>Глава <number/> ― <title/></m
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:424
 msgid "<msgid>citation.format</msgid> <msgstr>[<citation/>]</msgstr>"
-msgstr "<msgid>citation.format</msgid> <msgstr>[<citation/>]</msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -522,7 +519,7 @@ msgstr "<msgid>citation.format</msgid> <msgstr>[<citation/>]</msgstr>"
 msgid ""
 "<msgid>citetitle.format</msgid> <msgstr role='article'>“<node/>”</msgstr> "
 "<msgstr><i><node/></i></msgstr>"
-msgstr "<msgid>citetitle.format</msgid> <msgstr role='article'>\"<node/>\"</msgstr> <msgstr><i><node/></i></msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -549,7 +546,7 @@ msgstr "<msgid>citetitle.format</msgid> <msgstr role='article'>\"<node/>\"</msgs
 #: ../xslt/gettext/l10n.xml.in.h:477
 msgid ""
 "<msgid>email.tooltip</msgid> <msgstr>Send email to ‘<string/>’.</msgstr>"
-msgstr "<msgid>email.tooltip</msgid> <msgstr>Отправить сообщение адресату ‘<string/>’.</msgstr>"
+msgstr ""
 
 #. The number formatter used for example numbers.  This can be one of
 #. "1", "A", "a", "I", or "i", without the quotes.  These formatters
@@ -566,7 +563,7 @@ msgstr "<msgid>email.tooltip</msgid> <msgstr>Отправить сообщени
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:492
 msgid "<msgid>example.digit</msgid> <msgstr>1</msgstr>"
-msgstr "<msgid>example.digit</msgid> <msgstr>1</msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -605,7 +602,7 @@ msgid ""
 "<msgid>example.label</msgid> <msgstr role='header'><i>Example "
 "<number/></i>&#x2003;</msgstr> <msgstr role='li'>Example "
 "<number/>&#x2002;</msgstr> <msgstr>Example <number/></msgstr>"
-msgstr "<msgid>example.label</msgid> <msgstr role='header'><i>Пример <number/></i>&#x2003;</msgstr> <msgstr role='li'>Пример <number/>&#x2002;</msgstr> <msgstr>Пример <number/></msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -640,7 +637,7 @@ msgstr "<msgid>example.label</msgid> <msgstr role='header'><i>Пример <numb
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:559
 msgid "<msgid>example.number</msgid> <msgstr><parent/>-<digit/></msgstr>"
-msgstr "<msgid>example.number</msgid> <msgstr><parent/>-<digit/></msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -674,7 +671,7 @@ msgstr "<msgid>example.number</msgid> <msgstr><parent/>-<digit/></msgstr>"
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:591
 msgid "<msgid>example.xref</msgid> <msgstr>Example <number/></msgstr>"
-msgstr "<msgid>example.xref</msgid> <msgstr>Пример <number/></msgstr>"
+msgstr ""
 
 #. The number formatter used for figure numbers.  This can be one of
 #. "1", "A", "a", "I", or "i", without the quotes.  These formatters
@@ -691,7 +688,7 @@ msgstr "<msgid>example.xref</msgid> <msgstr>Пример <number/></msgstr>"
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:606
 msgid "<msgid>figure.digit</msgid> <msgstr>1</msgstr>"
-msgstr "<msgid>figure.digit</msgid> <msgstr>1</msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -730,7 +727,7 @@ msgid ""
 "<msgid>figure.label</msgid> <msgstr role='header'><i>Figure "
 "<number/></i>&#x2003;</msgstr> <msgstr role='li'>Figure "
 "<number/>&#x2002;</msgstr> <msgstr>Figure <number/></msgstr>"
-msgstr "<msgid>figure.label</msgid> <msgstr role='header'><i>Рисунок <number/></i>&#x2003;</msgstr> <msgstr role='li'>Рисунок <number/>&#x2002;</msgstr> <msgstr>Рисунок <number/></msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -765,7 +762,7 @@ msgstr "<msgid>figure.label</msgid> <msgstr role='header'><i>Рисунок <num
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:673
 msgid "<msgid>figure.number</msgid> <msgstr><parent/>-<digit/></msgstr>"
-msgstr "<msgid>figure.number</msgid> <msgstr><parent/>-<digit/></msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -799,7 +796,7 @@ msgstr "<msgid>figure.number</msgid> <msgstr><parent/>-<digit/></msgstr>"
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:705
 msgid "<msgid>figure.xref</msgid> <msgstr>Figure <number/></msgstr>"
-msgstr "<msgid>figure.xref</msgid> <msgstr>Рисунок <number/></msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -835,7 +832,7 @@ msgstr "<msgid>figure.xref</msgid> <msgstr>Рисунок <number/></msgstr>"
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:739
 msgid "<msgid>glossary.xref</msgid> <msgstr><title/></msgstr>"
-msgstr "<msgid>glossary.xref</msgid> <msgstr><title/></msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -869,7 +866,7 @@ msgstr "<msgid>glossary.xref</msgid> <msgstr><title/></msgstr>"
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:771
 msgid "<msgid>glossentry.abbrev.format</msgid> <msgstr>(<node/>)</msgstr>"
-msgstr "<msgid>glossentry.abbrev.format</msgid> <msgstr>(<node/>)</msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -897,7 +894,7 @@ msgstr "<msgid>glossentry.abbrev.format</msgid> <msgstr>(<node/>)</msgstr>"
 msgid ""
 "<msgid>glossentry.tooltip</msgid> <msgstr>Read the definition for "
 "‘<glossterm/>’.</msgstr>"
-msgstr "<msgid>glossentry.tooltip</msgid> <msgstr>Смотрите определение \"<glossterm/>\".</msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -933,7 +930,7 @@ msgstr "<msgid>glossentry.tooltip</msgid> <msgstr>Смотрите опреде�
 msgid ""
 "<msgid>glossentry.xref</msgid> <msgstr role='glosssee'><glossterm/></msgstr>"
 " <msgstr>‘<glossterm/>’</msgstr>"
-msgstr "<msgid>glossentry.xref</msgid> <msgstr role='glosssee'><glossterm/></msgstr> <msgstr>‘<glossterm/>’</msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -969,7 +966,7 @@ msgstr "<msgid>glossentry.xref</msgid> <msgstr role='glosssee'><glossterm/></msg
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:861
 msgid "<msgid>glosssee.format</msgid> <msgstr>See <glosssee/>.</msgstr>"
-msgstr "<msgid>glosssee.format</msgid> <msgstr>Смотрите <glosssee/>.</msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -1007,7 +1004,7 @@ msgstr "<msgid>glosssee.format</msgid> <msgstr>Смотрите <glosssee/>.</ms
 #: ../xslt/gettext/l10n.xml.in.h:896
 msgid ""
 "<msgid>glossseealso.format</msgid> <msgstr>See also <glosssee/>.</msgstr>"
-msgstr "<msgid>glossseealso.format</msgid> <msgstr>Также смотрите <glosssee/>.</msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -1038,7 +1035,7 @@ msgstr "<msgid>glossseealso.format</msgid> <msgstr>Также смотрите <
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:925
 msgid "<msgid>manvolnum.format</msgid> <msgstr>(<node/>)</msgstr>"
-msgstr "<msgid>manvolnum.format</msgid> <msgstr>(<node/>)</msgstr>"
+msgstr ""
 
 #. The number formatter used for part numbers.  This can be one of
 #. "1", "A", "a", "I", or "i", without the quotes.  These formatters
@@ -1055,7 +1052,7 @@ msgstr "<msgid>manvolnum.format</msgid> <msgstr>(<node/>)</msgstr>"
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:940
 msgid "<msgid>part.digit</msgid> <msgstr>I</msgstr>"
-msgstr "<msgid>part.digit</msgid> <msgstr>I</msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -1094,7 +1091,7 @@ msgid ""
 "<msgid>part.label</msgid> <msgstr role='header'><number/>.&#x2003;</msgstr> "
 "<msgstr role='li'><number/>.&#x2002;</msgstr> <msgstr>Part "
 "<number/></msgstr>"
-msgstr "<msgid>part.label</msgid> <msgstr role='header'><number/>.&#x2003;</msgstr> <msgstr role='li'><number/>.&#x2002;</msgstr> <msgstr>Часть <number/></msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -1128,7 +1125,7 @@ msgstr "<msgid>part.label</msgid> <msgstr role='header'><number/>.&#x2003;</msgs
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1006
 msgid "<msgid>part.xref</msgid> <msgstr>Part <number/> ― <title/></msgstr>"
-msgstr "<msgid>part.xref</msgid> <msgstr>Часть <number/> ― <title/></msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -1164,7 +1161,7 @@ msgstr "<msgid>part.xref</msgid> <msgstr>Часть <number/> ― <title/></msgs
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1040
 msgid "<msgid>preface.xref</msgid> <msgstr><title/></msgstr>"
-msgstr "<msgid>preface.xref</msgid> <msgstr><title/></msgstr>"
+msgstr ""
 
 #. The number formatter used for question numbers.  This can be one of
 #. "1", "A", "a", "I", or "i", without the quotes.  These formatters
@@ -1181,7 +1178,7 @@ msgstr "<msgid>preface.xref</msgid> <msgstr><title/></msgstr>"
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1055
 msgid "<msgid>question.digit</msgid> <msgstr>1</msgstr>"
-msgstr "<msgid>question.digit</msgid> <msgstr>1</msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -1217,7 +1214,7 @@ msgid ""
 "<msgid>question.label</msgid> <msgstr "
 "role='header'><number/>.&#x2003;</msgstr> <msgstr "
 "role='li'><number/>.&#x2002;</msgstr> <msgstr>Question <number/></msgstr>"
-msgstr "<msgid>question.label</msgid> <msgstr role='header'><number/>.&#x2003;</msgstr> <msgstr role='li'><number/>.&#x2002;</msgstr> <msgstr>Вопрос <number/></msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -1247,7 +1244,7 @@ msgstr "<msgid>question.label</msgid> <msgstr role='header'><number/>.&#x2003;</
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1114
 msgid "<msgid>question.xref</msgid> <msgstr>Question <number/></msgstr>"
-msgstr "<msgid>question.xref</msgid> <msgstr>Вопрос <number/></msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -1287,7 +1284,7 @@ msgstr "<msgid>question.xref</msgid> <msgstr>Вопрос <number/></msgstr>"
 msgid ""
 "<msgid>quote.format</msgid> <msgstr role='inner'>‘<node/>’</msgstr> "
 "<msgstr>“<node/>”</msgstr>"
-msgstr "<msgid>quote.format</msgid> <msgstr role='inner'>‘<node/>’</msgstr> <msgstr>\"<node/>\"</msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -1317,7 +1314,7 @@ msgstr "<msgid>quote.format</msgid> <msgstr role='inner'>‘<node/>’</msgstr> 
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1178
 msgid "<msgid>refentry.xref</msgid> <msgstr><title/></msgstr>"
-msgstr "<msgid>refentry.xref</msgid> <msgstr><title/></msgstr>"
+msgstr ""
 
 #. The number formatter used for reference section numbers.  This can
 #. be one of "1", "A", "a", "I", or "i", without the quotes.  These
@@ -1334,7 +1331,7 @@ msgstr "<msgid>refentry.xref</msgid> <msgstr><title/></msgstr>"
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1193
 msgid "<msgid>refsection.digit</msgid> <msgstr>1</msgstr>"
-msgstr "<msgid>refsection.digit</msgid> <msgstr>1</msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -1373,7 +1370,7 @@ msgid ""
 "<msgid>refsection.label</msgid> <msgstr "
 "role='header'><number/>.&#x2003;</msgstr> <msgstr "
 "role='li'><number/>.&#x2002;</msgstr> <msgstr>Section <number/></msgstr>"
-msgstr "<msgid>refsection.label</msgid> <msgstr role='header'><number/>.&#x2003;</msgstr> <msgstr role='li'><number/>.&#x2002;</msgstr> <msgstr>Раздел <number/></msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -1409,7 +1406,7 @@ msgstr "<msgid>refsection.label</msgid> <msgstr role='header'><number/>.&#x2003;
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1261
 msgid "<msgid>refsection.number</msgid> <msgstr><parent/>.<digit/></msgstr>"
-msgstr "<msgid>refsection.number</msgid> <msgstr><parent/>.<digit/></msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -1444,7 +1441,7 @@ msgstr "<msgid>refsection.number</msgid> <msgstr><parent/>.<digit/></msgstr>"
 #: ../xslt/gettext/l10n.xml.in.h:1293
 msgid ""
 "<msgid>refsection.xref</msgid> <msgstr>Section <number/> ― <title/></msgstr>"
-msgstr "<msgid>refsection.xref</msgid> <msgstr>Раздел <number/> ― <title/></msgstr>"
+msgstr ""
 
 #. The number formatter used for section numbers.  This can be one of
 #. "1", "A", "a", "I", or "i", without the quotes.  These formatters
@@ -1461,7 +1458,7 @@ msgstr "<msgid>refsection.xref</msgid> <msgstr>Раздел <number/> ― <title
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1308
 msgid "<msgid>section.digit</msgid> <msgstr>1</msgstr>"
-msgstr "<msgid>section.digit</msgid> <msgstr>1</msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -1500,7 +1497,7 @@ msgid ""
 "<msgid>section.label</msgid> <msgstr "
 "role='header'><number/>.&#x2003;</msgstr> <msgstr "
 "role='li'><number/>.&#x2002;</msgstr> <msgstr>Section <number/></msgstr>"
-msgstr "<msgid>section.label</msgid> <msgstr role='header'><number/>&#x2003;</msgstr> <msgstr role='li'><number/>.&#x2002;</msgstr> <msgstr>Раздел <number/></msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -1536,7 +1533,7 @@ msgstr "<msgid>section.label</msgid> <msgstr role='header'><number/>&#x2003;</ms
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1376
 msgid "<msgid>section.number</msgid> <msgstr><parent/>.<digit/></msgstr>"
-msgstr "<msgid>section.number</msgid> <msgstr><parent/>.<digit/></msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -1571,7 +1568,7 @@ msgstr "<msgid>section.number</msgid> <msgstr><parent/>.<digit/></msgstr>"
 #: ../xslt/gettext/l10n.xml.in.h:1408
 msgid ""
 "<msgid>section.xref</msgid> <msgstr>Section <number/> ― <title/></msgstr>"
-msgstr "<msgid>section.xref</msgid> <msgstr>Раздел <number/> ― <title/></msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -1601,7 +1598,7 @@ msgstr "<msgid>section.xref</msgid> <msgstr>Раздел <number/> ― <title/><
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1436
 msgid "<msgid>seealsoie.format</msgid> <msgstr>See also <seeie/>.</msgstr>"
-msgstr "<msgid>seealsoie.format</msgid> <msgstr>Смотрите также <seeie/>.</msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -1631,7 +1628,7 @@ msgstr "<msgid>seealsoie.format</msgid> <msgstr>Смотрите также <see
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1464
 msgid "<msgid>seeie.format</msgid> <msgstr>See <seeie/>.</msgstr>"
-msgstr "<msgid>seeie.format</msgid> <msgstr>Смотрите <seeie/>.</msgstr>"
+msgstr ""
 
 #. The number formatter used for synopsis numbers.  This can be one of
 #. "1", "A", "a", "I", or "i", without the quotes.  These formatters
@@ -1648,7 +1645,7 @@ msgstr "<msgid>seeie.format</msgid> <msgstr>Смотрите <seeie/>.</msgstr>"
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1479
 msgid "<msgid>synopfragment.digit</msgid> <msgstr>1</msgstr>"
-msgstr "<msgid>synopfragment.digit</msgid> <msgstr>1</msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -1678,7 +1675,7 @@ msgstr "<msgid>synopfragment.digit</msgid> <msgstr>1</msgstr>"
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1507
 msgid "<msgid>synopfragment.label</msgid> <msgstr>(<number/>)</msgstr>"
-msgstr "<msgid>synopfragment.label</msgid> <msgstr>(<number/>)</msgstr>"
+msgstr ""
 
 #. The number formatter used for table numbers.  This can be one of
 #. "1", "A", "a", "I", or "i", without the quotes.  These formatters
@@ -1695,7 +1692,7 @@ msgstr "<msgid>synopfragment.label</msgid> <msgstr>(<number/>)</msgstr>"
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1522
 msgid "<msgid>table.digit</msgid> <msgstr>1</msgstr>"
-msgstr "<msgid>table.digit</msgid> <msgstr>1</msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -1734,7 +1731,7 @@ msgid ""
 "<msgid>table.label</msgid> <msgstr role='header'><i>Table "
 "<number/></i>&#x2003;</msgstr> <msgstr role='li'>Table "
 "<number/>&#x2002;</msgstr> <msgstr>Table <number/></msgstr>"
-msgstr "<msgid>table.label</msgid> <msgstr role='header'><i>Таблица <number/></i>&#x2003;</msgstr> <msgstr role='li'>Таблица <number/>&#x2002;</msgstr> <msgstr>Таблица <number/></msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -1769,7 +1766,7 @@ msgstr "<msgid>table.label</msgid> <msgstr role='header'><i>Таблица <numb
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1589
 msgid "<msgid>table.number</msgid> <msgstr><parent/>-<digit/></msgstr>"
-msgstr "<msgid>table.number</msgid> <msgstr><parent/>-<digit/></msgstr>"
+msgstr ""
 
 #. This is a special format message.  Please read the full translator
 #. documentation before translating this message.  The documentation
@@ -1803,49 +1800,49 @@ msgstr "<msgid>table.number</msgid> <msgstr><parent/>-<digit/></msgstr>"
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1621
 msgid "<msgid>table.xref</msgid> <msgstr>Table <number/></msgstr>"
-msgstr "<msgid>table.xref</msgid> <msgstr>Таблица <number/>.</msgstr>"
+msgstr ""
 
 #. Used as a header before a list of authors.
 #: ../xslt/gettext/l10n.xml.in.h:1623
 msgid "<msgstr form='0'>Author</msgstr> <msgstr form='1'>Authors</msgstr>"
-msgstr "<msgstr form='0'>Автор</msgstr> <msgstr form='1'>Авторы</msgstr> <msgstr form='2'>Авторы</msgstr>"
+msgstr ""
 
 #. Used as a header before a list of collaborators.
 #: ../xslt/gettext/l10n.xml.in.h:1625
 msgid ""
 "<msgstr form='0'>Collaborator</msgstr> <msgstr "
 "form='1'>Collaborators</msgstr>"
-msgstr "<msgstr form='0'>Помощник</msgstr> <msgstr form='1'>Помощники</msgstr> <msgstr form='2'>Помощники</msgstr>"
+msgstr ""
 
 #. Used as a header before a list of copyrights.
 #: ../xslt/gettext/l10n.xml.in.h:1627
 msgid ""
 "<msgstr form='0'>Copyright</msgstr> <msgstr form='1'>Copyrights</msgstr>"
-msgstr "<msgstr form='0'>Авторские права</msgstr> <msgstr form='1'>Авторские права</msgstr> <msgstr form='2'>Авторские права</msgstr>"
+msgstr ""
 
 #. Used as a header before a list of editors.
 #: ../xslt/gettext/l10n.xml.in.h:1629
 msgid "<msgstr form='0'>Editor</msgstr> <msgstr form='1'>Editors</msgstr>"
-msgstr "<msgstr form='0'>Редактор</msgstr> <msgstr form='1'>Редакторы</msgstr> <msgstr form='2'>Редакторы</msgstr>"
+msgstr ""
 
 #. Used as a header before a list of contributors.
 #: ../xslt/gettext/l10n.xml.in.h:1631
 msgid ""
 "<msgstr form='0'>Other Contributor</msgstr> <msgstr form='1'>Other "
 "Contributors</msgstr>"
-msgstr "<msgstr form='0'>Другой помощник</msgstr> <msgstr form='1'>Другие помощники</msgstr> <msgstr form='2'>Другие помощники</msgstr>"
+msgstr ""
 
 #. Used as a header before a list of publishers.
 #: ../xslt/gettext/l10n.xml.in.h:1633
 msgid ""
 "<msgstr form='0'>Publisher</msgstr> <msgstr form='1'>Publishers</msgstr>"
-msgstr "<msgstr form='0'>Распространитель</msgstr> <msgstr form='1'>Распространители</msgstr> <msgstr form='2'>Распространители</msgstr>"
+msgstr ""
 
 #. Used as a header before a list of translators.
 #: ../xslt/gettext/l10n.xml.in.h:1635
 msgid ""
 "<msgstr form='0'>Translator</msgstr> <msgstr form='1'>Translators</msgstr>"
-msgstr "<msgstr form='0'>Переводчик</msgstr> <msgstr form='1'>Переводчики</msgstr> <msgstr form='2'>Переводчики</msgstr>"
+msgstr ""
 
 #. http://www.docbook.org/tdg/en/html/qandaentry.html
 #. 
@@ -1857,12 +1854,12 @@ msgstr "<msgstr form='0'>Переводчик</msgstr> <msgstr form='1'>Пере
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1645
 msgid "A:&#x2003;"
-msgstr "О:&#x2003;"
+msgstr ""
 
 #. Used for links to the titlepage.
 #: ../xslt/gettext/l10n.xml.in.h:1647
 msgid "About This Document"
-msgstr "Об этом документе"
+msgstr "ስለዚህ ሰነድ "
 
 #. http://www.docbook.org/tdg/en/html/affiliation.html
 #. 
@@ -1874,38 +1871,38 @@ msgstr "Об этом документе"
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1657
 msgid "Affiliation"
-msgstr "Организация"
+msgstr ""
 
 #. Used as a title for a bibliography.
 #: ../xslt/gettext/l10n.xml.in.h:1659
 msgid "Bibliography"
-msgstr "Дополнительные документы"
+msgstr ""
 
 #. http://www.docbook.org/tdg/en/html/caution.html
 #. This is used as a default title for caution elements.
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1664
 msgid "Caution"
-msgstr "Внимание"
+msgstr ""
 
 #. http://www.docbook.org/tdg/en/html/colophon.html
 #. This is used as a default title for colophon elements.
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1669
 msgid "Colophon"
-msgstr "Заключение"
+msgstr ""
 
 #. Used as the title of the listing of subsections
 #: ../xslt/gettext/l10n.xml.in.h:1671
 msgid "Contents"
-msgstr "Содержание"
+msgstr "ይዞታዎች "
 
 #. http://www.docbook.org/tdg/en/html/dedication.html
 #. This is used as a default title for dedication elements.
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1676
 msgid "Dedication"
-msgstr "Посвящение"
+msgstr ""
 
 #. This is used as a description for the status of the document.
 #. This will not be visibile to the users.
@@ -1915,7 +1912,7 @@ msgstr "Посвящение"
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1684
 msgid "Draft"
-msgstr "Черновик"
+msgstr ""
 
 #. http://www.docbook.org/tdg/en/html/affiliation.html
 #. 
@@ -1927,7 +1924,7 @@ msgstr "Черновик"
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1694
 msgid "Email"
-msgstr "Email"
+msgstr "ኢሜይል "
 
 #. This is used as a description for the status of the document.
 #. This will not be visibile to the users.
@@ -1937,26 +1934,26 @@ msgstr "Email"
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1702
 msgid "Final"
-msgstr "Завершено"
+msgstr ""
 
 #. Automatic further reading section and links
 #: ../xslt/gettext/l10n.xml.in.h:1704
 msgid "Further Reading"
-msgstr "Для дальнейшего чтения"
+msgstr "በበለጠ ለማንበብ "
 
 #. http://www.docbook.org/tdg/en/html/glossary.html
 #. This is used as a default title for glossary elements.
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1709
 msgid "Glossary"
-msgstr "Словарь терминов"
+msgstr ""
 
 #. http://www.docbook.org/tdg/en/html/important.html
 #. This is used as a default title for important elements.
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1714
 msgid "Important"
-msgstr "Важно"
+msgstr ""
 
 #. This is used as a description for the status of the document.
 #. This will not be visibile to the users.
@@ -1966,57 +1963,57 @@ msgstr "Важно"
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1722
 msgid "Incomplete"
-msgstr "Не завершено"
+msgstr ""
 
 #. http://www.docbook.org/tdg/en/html/index.html
 #. This is used as a default title for index elements.
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1727
 msgid "Index"
-msgstr "Оглавление"
+msgstr "ማውጫ "
 
 #. http://www.docbook.org/tdg/en/html/legalnotice.html
 #. This is used as a default title for legalnotice elements.
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1732
 msgid "Legal Notice"
-msgstr "Юридический статус"
+msgstr ""
 
 #. Automatic more about section and links
 #: ../xslt/gettext/l10n.xml.in.h:1734
 msgid "More About"
-msgstr "Больше информации"
+msgstr "ተጨማሪ ስለ "
 
 #. http://www.docbook.org/tdg/en/html/refnamediv.html
 #. This is used as the title for refnamediv elements.
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1739
 msgid "Name"
-msgstr "Название"
+msgstr "ስም "
 
 #. Used as link to the next page in a series.
 #: ../xslt/gettext/l10n.xml.in.h:1741
 msgid "Next"
-msgstr "Следующая"
+msgstr "ይቀጥሉ "
 
 #. http://www.docbook.org/tdg/en/html/note.html
 #. This is used as a default title for note elements.
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1746
 msgid "Note"
-msgstr "Заметка"
+msgstr "ማስታወሻ "
 
 #. http://www.docbook.org/tdg/en/html/preface.html
 #. This is used as a default title for preface elements.
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1751
 msgid "Preface"
-msgstr "Вступление"
+msgstr ""
 
 #. Used as link to the previous page in a series.
 #: ../xslt/gettext/l10n.xml.in.h:1753
 msgid "Previous"
-msgstr "Предыдущая"
+msgstr "ቀደም ያለው "
 
 #. http://www.docbook.org/tdg/en/html/qandaentry.html
 #. 
@@ -2028,7 +2025,7 @@ msgstr "Предыдущая"
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1763
 msgid "Q:&#x2003;"
-msgstr "В:&#x2003;"
+msgstr "Q:&#x2003;"
 
 #. This is used as a description for the status of the document.
 #. This will not be visibile to the users.
@@ -2037,26 +2034,26 @@ msgstr "В:&#x2003;"
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1770
 msgid "Ready for review"
-msgstr "Готово для проверки"
+msgstr ""
 
 #. http://www.docbook.org/tdg/en/html/revhistory.html
 #. This is used as a header before the revision history.
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1775
 msgid "Revision History"
-msgstr "История изменений"
+msgstr ""
 
 #. Used for the <see> element.
 #. FIXME: this should be a format string.
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1780
 msgid "See"
-msgstr "Смотрите"
+msgstr "ይመልከቱ "
 
 #. Automatic see also section and links
 #: ../xslt/gettext/l10n.xml.in.h:1782
 msgid "See Also"
-msgstr "Смотрите также"
+msgstr "ይህን ይመልከቱ "
 
 #. This is used as a description for the status of the document.
 #. This will not be visibile to the users.
@@ -2066,28 +2063,28 @@ msgstr "Смотрите также"
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1790
 msgid "Stub"
-msgstr "Начато"
+msgstr ""
 
 #. http://www.docbook.org/tdg/en/html/refsynopsisdiv.html
 #. This is used as the default title for refsynopsisdiv elements.
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1795
 msgid "Synopsis"
-msgstr "Аннотация"
+msgstr ""
 
 #. http://www.docbook.org/tdg/en/html/tip.html
 #. This is used as a default title for tip elements.
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1800
 msgid "Tip"
-msgstr "Подсказка"
+msgstr ""
 
 #. http://www.docbook.org/tdg/en/html/warning.html
 #. This is used as a default title for warning elements.
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1805
 msgid "Warning"
-msgstr "Предупреждение"
+msgstr "ማስጠንቀቂያ "
 
 #. Translate to default:RTL if your language should be displayed
 #. right-to-left, otherwise translate to default:LTR.  Do *not*
@@ -2096,7 +2093,7 @@ msgstr "Предупреждение"
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1812
 msgid "default:LTR"
-msgstr "default:LTR"
+msgstr ""
 
 #. This is an image of the opening quotation character for your language.
 #. The image is used as a watermark on blockquote elements.  There are a
@@ -2126,4 +2123,4 @@ msgstr "default:LTR"
 #. 
 #: ../xslt/gettext/l10n.xml.in.h:1840
 msgid "watermark-blockquote-201C.png"
-msgstr "watermark-blockquote-00AB.png"
+msgstr ""
