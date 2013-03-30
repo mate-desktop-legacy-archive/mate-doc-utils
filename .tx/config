@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+ 
+[MATE.mate-doc-utils]
+file_filter = po/<lang>.po
+source_file = po/mate-doc-utils.pot
+source_lang = en
