@@ -18,4 +18,5 @@ EXTRA_DIST =			\
 	mate-doc-prepare.in	\
 	mate-doc-utils.m4	\
 	mate-doc-utils.make	\
-	mate-doc-utils.pc.in
+	mate-doc-utils.pc.in	\
+	mate-debian.sh
