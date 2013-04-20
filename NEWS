@@ -1,0 +1,4 @@
+1.6.1
+
+  * Fix creation of tarball with 'make dist' to avoid autogen.sh for
+    distributions.
