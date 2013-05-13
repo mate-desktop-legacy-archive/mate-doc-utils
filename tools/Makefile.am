@@ -4,7 +4,7 @@ aclocaldir = $(datadir)/aclocal
 aclocal_DATA = mate-doc-utils.m4
 
 sharedir = $(datadir)/mate-doc-utils
-share_DATA = mate-doc-utils.make mate-debian.sh
+share_DATA = mate-doc-utils.make
 
 bin_SCRIPTS = mate-doc-prepare mate-doc-tool
 
@@ -18,5 +18,4 @@ EXTRA_DIST =			\
 	mate-doc-prepare.in	\
 	mate-doc-utils.m4	\
 	mate-doc-utils.make	\
-	mate-doc-utils.pc.in	\
-	mate-debian.sh
+	mate-doc-utils.pc.in
