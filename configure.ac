@@ -1,4 +1,4 @@
-AC_INIT([mate-doc-utils], [1.6.1], [https://github.com/mate-desktop/mate-doc-utils])
+AC_INIT([mate-doc-utils], [1.6.2], [https://github.com/mate-desktop/mate-doc-utils])
 AM_INIT_AUTOMAKE([1.9 no-dist-gzip dist-xz])
 
 AC_CONFIG_MACRO_DIR([m4])
